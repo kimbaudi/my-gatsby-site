@@ -1,0 +1,26 @@
+{
+  "name": "my-gatsby-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "my-gatsby-site",
+  "author": "Paul Kim",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@kimbaudi/testreactjslib": "^0.0.1",
+    "@kimbaudi/testreacttslib": "^0.0.1",
+    "gatsby": "^5.10.0",
+    "gatsby-plugin-emotion": "^8.10.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
