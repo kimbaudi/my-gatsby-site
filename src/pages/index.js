@@ -1,6 +1,6 @@
 import * as React from "react";
 import { css } from "@emotion/react";
-import MyButton from "@kimbaudi/testreactjslib";
+import MyButton from "@kimbaudi/testreacttslib";
 
 const IndexPage = () => {
   return (
